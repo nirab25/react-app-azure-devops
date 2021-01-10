@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+       <h1> React Sample App </h1>
+       <p>
           This application is created using React.js (Node) by Nirab(nirab.25@gmail.com) <br/>
           and deployed to MS Azure App Service, Build Pipelines (CI/CD) for Learning purpose.
         </p>
